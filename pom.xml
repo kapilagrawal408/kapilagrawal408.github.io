@@ -43,6 +43,12 @@
     </dependency>
   </dependencies>
 
+	<scm>
+	  <connection>scm:git:git://github.com/kapilagrawal408/kapilagrawal408.github.io</connection>
+	  <developerConnection>scm:git:ssh://github.com/kapilagrawal408/kapilagrawal408.github.io</developerConnection>
+	  <url>https://github.com/kapilagrawal408/kapilagrawal408.github.io.git</url>
+	</scm>
+
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
